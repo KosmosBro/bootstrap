@@ -44,6 +44,7 @@ h2{
 
 
 body{
+    max-width: 1000px;
     background-image: url(fon.jpg);
     background-size: 3400px;
     background-repeat: no-repeat;
