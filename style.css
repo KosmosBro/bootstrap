@@ -32,6 +32,17 @@
         .contact{
             color: white;
             padding-right: 30px;
-            margin-top: 45px;
-            font-size: 30px;
+            margin-top: 40px;
+            font-size: 35px;
         }
+h2{
+    color: red;
+    margin-top: 120px;
+    padding-left: 35px;
+    font-size: 60px;
+}
+
+
+body{
+    background-image: url(fon.jpg);
+}
