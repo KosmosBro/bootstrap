@@ -1,7 +1,7 @@
 .row-cols-1 > * {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
-    max-width: 100%;
+    max-width: 1300px;
 }
         .shapka{
             margin-left: -8px;
@@ -44,7 +44,8 @@ h2{
 
 
 body{
-    max-width: 1000px;
+    max-width: 1300px;
+    max-height: 2400px;
     background-image: url(fon.jpg);
     background-size: 3400px;
     background-repeat: no-repeat;
