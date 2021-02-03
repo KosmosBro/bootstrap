@@ -65,3 +65,32 @@ body{
     font-size: 20px;
     text-align: center;
 }
+
+.col-auto {
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+}
+
+.footer {
+
+    line-height: 1.9;
+    bottom: 0;
+    color: #ffffff; /* Цвет текста */
+    padding: 1px; /* Отступы вокруг текста */
+    clear: left; /* Отменяем действие float */
+}
+
+a {
+    color: white; /* Цвет обычной ссылки */
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+}
+
+a:hover {
+    color: blue;
+    border-bottom: .07em solid;
+}
+a:visited {
+    color: white; /* Цвет посещённой ссылки */
+}
